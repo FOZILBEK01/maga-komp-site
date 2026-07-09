@@ -1,6 +1,1 @@
-{
-  "name": "MaGa-KoMp-Olmaliq",
-  "description": "Kompyuter do'koni va ta'mirlash markazi vizitka sayti",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
+
